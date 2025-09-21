@@ -57,15 +57,3 @@ Day 1: Building a simple calculator.
 🛠️ Requirements
 Python 3.x
 No external libraries required.
-
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
